@@ -119,6 +119,12 @@
     <img src="./icons/stripe.svg" title="Stripe" alt="Stripe" width="45" height="45"/>
 </div>
 
+### Certifications
+
+<div>
+    <img src="./icons/badges/aws-certified-solutions-architect-associate.png" title="AWS Architect Associate" alt="AWS Certified Solutions Architect Associate" width="84" height="84"/>
+</div>
+
 <!--
 **DBFritz/DBFritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
